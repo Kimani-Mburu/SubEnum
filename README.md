@@ -4,7 +4,7 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-A fast, production-ready subdomain enumeration toolkit with two modes: a lightweight offline version and an advanced hybrid scanner with optional port enumeration and online wordlist fetching.
+A fast, subdomain enumeration toolkit with two modes: a lightweight offline version and an advanced hybrid scanner with optional port enumeration and online wordlist fetching.
 
 ## 📋 Table of Contents
 
@@ -344,4 +344,3 @@ For issues, questions, or suggestions:
 
 ---
 
-**Made with ❤️ by Michael Mburu**
