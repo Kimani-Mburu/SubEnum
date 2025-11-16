@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+
+# Subdomain results / outputs
+subdomain_results/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,8 @@
+dnspython>=2.3.0
+requests>=2.28.0
+# Dev/test dependencies (optional). Install with: pip install -r requirements-dev.txt
+# pytest>=7.0.0
+# Optional: pin versions used in your environment
+# Example:
+# dnspython==2.3.0
+# requests==2.31.0
